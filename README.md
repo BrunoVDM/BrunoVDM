@@ -6,7 +6,7 @@
 
 [Data challenge on mobility](https://github.com/BrunoVDM/Notebooks/blob/main/Challenge_20190413.py)
 
-[Impact of sampling on the Wassestein distance between two distributions](https://github.com/BrunoVDM/Notebooks/blob/main/Compare_Two_Distributions_Wasserstein_Distance_202112.py)
+[Impact of sampling on the Wassertein distance between two distributions](https://github.com/BrunoVDM/Notebooks/blob/main/Compare_Two_Distributions_Wasserstein_Distance_202112.py)
 
 [Illustration of the Central Limit Theorem](https://github.com/BrunoVDM/Notebooks/blob/main/Illustrate_Central_Limit_Theorem_202112.py)
 
