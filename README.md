@@ -7,9 +7,9 @@
 - 💞️ I’m looking to collaborate on those subjects
 - 📫 Feel free to drop me a message on [Linkedin](https://www.linkedin.com/in/bruno-van-dunem-martins-10a7252/)
 
-[Data challenge on mobility](https://github.com/BrunoVDM/Notebooks/blob/main/Challenge_20190413.py)
+[Impact of sampling on the Wasserstein distance between two distributions](https://github.com/BrunoVDM/Notebooks/blob/main/Compare_Two_Distributions_Wasserstein_Distance_202112.ipynb)
 
-[Impact of sampling on the Wasserstein distance between two distributions](https://github.com/BrunoVDM/Notebooks/blob/main/Compare_Two_Distributions_Wasserstein_Distance_202112.py)
+[Data challenge on mobility](https://github.com/BrunoVDM/Notebooks/blob/main/Challenge_20190413.py)
 
 [Illustration of the Central Limit Theorem](https://github.com/BrunoVDM/Notebooks/blob/main/Illustrate_Central_Limit_Theorem_202112.py)
 
