@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Bruno Martins,
 - 👀 I’m interested in artificial intelligence, both the technical part and the impact on society
 - 🌱 I’m currently learning about tabular data, time series, computer vision, NLP and GANs
+- This repository gathers python applications of machine learning and deep learning for the energy sector.
+- The methods include tabular data, computer vision and reinforcement learning for oil and gas production, photovoltaic, marketing and services, mobility.
+- Users can run each notebook independently.
 - 💞️ I’m looking to collaborate on those subjects
-- 📫 Feel free to drop me a message on git or [Linkedin](https://www.linkedin.com/in/bruno-van-dunem-martins-10a7252/)
+- 📫 Feel free to drop me a message on [Linkedin](https://www.linkedin.com/in/bruno-van-dunem-martins-10a7252/)
 
 [Data challenge on mobility](https://github.com/BrunoVDM/Notebooks/blob/main/Challenge_20190413.py)
 
