@@ -7,7 +7,11 @@
 - 💞️ I’m looking to collaborate on those subjects
 - 📫 Feel free to drop me a message on [Linkedin](https://www.linkedin.com/in/bruno-van-dunem-martins-10a7252/)
 
-[Impact of sampling on the Wasserstein distance between two distributions](https://github.com/BrunoVDM/Notebooks/blob/main/Compare_Two_Distributions_Wasserstein_Distance_202112.ipynb)
+Currently available notebooks:
+
+[Reinforcement Learning: Multi-Armed Bandit](https://github.com/BrunoVDM/Notebooks/blob/main/REINFORCEMENT_LEARNING_MULTI-ARMED_BANDIT_202006.ipynb)
+
+[Sampling Bias Quantification](https://github.com/BrunoVDM/Notebooks/blob/main/SAMPLING_BIAS_QUANTIFICATION_202112.ipynb)
 
 <!---
 BrunoVDM/BrunoVDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
