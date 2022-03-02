@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on those subjects
 - 📫 Feel free to drop me a message on [Linkedin](https://www.linkedin.com/in/bruno-van-dunem-martins-10a7252/)
 
-Currently available notebooks:
+Notebooks:
 
 [Reinforcement Learning: Multi-Armed Bandit](https://github.com/BrunoVDM/Notebooks/blob/main/REINFORCEMENT_LEARNING_MULTI-ARMED_BANDIT_202006.ipynb)
 
